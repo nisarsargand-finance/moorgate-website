@@ -1,0 +1,26 @@
+# Used only when the site is hosted on tasjeel.ae (Apache / cPanel). Ignored on Netlify and Cloudflare.
+# Upload this file together with everything inside the "dist" folder.
+
+# Always use https://www.moorgateuae.com
+RewriteEngine On
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} !^www\. [NC]
+RewriteRule ^ https://www.moorgateuae.com%{REQUEST_URI} [L,R=301]
+
+# Our custom 404 page
+ErrorDocument 404 /404.html
+
+# Compress text files
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css application/javascript application/json image/svg+xml application/xml
+</IfModule>
+
+# Cache static files
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType image/png "access plus 1 month"
+  ExpiresByType image/svg+xml "access plus 1 month"
+  ExpiresByType font/woff2 "access plus 1 year"
+  ExpiresByType text/css "access plus 1 year"
+  ExpiresByType application/javascript "access plus 1 year"
+</IfModule>
