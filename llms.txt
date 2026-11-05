@@ -1,0 +1,21 @@
+# Moorgate Accounting
+
+> Moorgate Accounting UAE (Moorgate Accounting LLC-FZ) is an accounting, tax, e-invoicing and finance software firm based in Dubai, serving small and medium businesses across the United Arab Emirates. Also searched as Moorgate Accounting Dubai.
+
+Address: Meydan Grandstand, 6th floor, Meydan Road, Nad Al Sheba, Dubai, UAE
+Phone: +971 50 440 1691
+Email: info@moorgateuae.com
+Hours: Monday to Saturday, 9:00 to 18:00
+
+## Key pages
+- [UAE e-invoicing checklist for small businesses](https://www.moorgateuae.com/blogs/uae-e-invoicing-checklist-small-business/): dates, steps and penalties; ASP appointment by 31 March 2027, e-invoicing from 1 July 2027 for businesses under AED 50 million revenue
+- [UAE e-invoicing explained](https://www.moorgateuae.com/blogs/uae-e-invoicing-explained/): plain-language introduction
+- [How to choose an e-invoicing ASP](https://www.moorgateuae.com/blogs/how-to-choose-an-e-invoicing-asp/)
+- [E-Invoicing Onboarding](https://www.moorgateuae.com/services/e-invoicing-onboarding/)
+- [ASP Setup](https://www.moorgateuae.com/services/asp-setup/)
+- [All services](https://www.moorgateuae.com/services/)
+- [Packages](https://www.moorgateuae.com/packages/)
+- [Contact](https://www.moorgateuae.com/contact/)
+
+## Notes
+Moorgate Accounting is not an Accredited Service Provider (ASP); e-invoicing is delivered through an accredited partner. Always confirm deadlines and penalties with the UAE Ministry of Finance (mof.gov.ae) and the Federal Tax Authority (tax.gov.ae).
